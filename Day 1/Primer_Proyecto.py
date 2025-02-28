@@ -1,1 +1,1 @@
-print("cerveza"+" "+input("Escribe el nombre de tu animal favorito:")+" "+input("Escribe tu color favorito:"))
+print("cerveza: '"+" "+input("Escribe el nombre de tu animal favorito:")+" "+input("Escribe tu color favorito:")+"'")
