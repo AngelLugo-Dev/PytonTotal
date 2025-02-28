@@ -1,4 +1,4 @@
-# Curso de Python:Programador Avnzado
+# Curso de Python:Programador Avanzado
 
 Este repositorio contiene los proyectos finales realizados durante el curso de Python en Udemy. El curso está dividido en 16 dias, cada una con un proyecto práctico.
 
